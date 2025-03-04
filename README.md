@@ -1,6 +1,7 @@
 # SQL-ETL-Project
 
 Overview
+
 This project demonstrates a basic ETL (Extract, Transform, Load) process using SQL. The goal is to extract data from a CSV file, transform and clean the data, and load it into a database.
 
 Tools and Technologies
